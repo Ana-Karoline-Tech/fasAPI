@@ -7,6 +7,7 @@ disable=
       C0209, # Consider-using-f-string
       C0115, # missing-module-docstring
       W0719, # broad-exception-raised
+      W0718, # broad-exception-caught
       
 
 # Analyse import fallback blocks. This can be used to support both Python 2 and
